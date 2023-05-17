@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Yekan',sans-serif;
+}
+html{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+body{
+    padding: 10px;
+}
